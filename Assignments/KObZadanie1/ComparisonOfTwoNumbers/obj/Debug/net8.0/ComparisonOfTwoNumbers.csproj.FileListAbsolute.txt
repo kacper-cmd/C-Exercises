@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\bin\Debug\net8.0\ComparisonOfTwoNumbers.exe
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\bin\Debug\net8.0\ComparisonOfTwoNumbers.deps.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\bin\Debug\net8.0\ComparisonOfTwoNumbers.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\bin\Debug\net8.0\ComparisonOfTwoNumbers.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\bin\Debug\net8.0\ComparisonOfTwoNumbers.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ComparisonOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ComparisonOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ComparisonOfTwoNumbers.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ComparisonOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ComparisonOfTwoNumbers.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\refint\ComparisonOfTwoNumbers.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ComparisonOfTwoNumbers.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ComparisonOfTwoNumbers.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\ComparisonOfTwoNumbers\obj\Debug\net8.0\ref\ComparisonOfTwoNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\bin\Debug\net8.0\GuessingNumberZad4.exe
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\bin\Debug\net8.0\GuessingNumberZad4.deps.json
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\bin\Debug\net8.0\GuessingNumberZad4.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\bin\Debug\net8.0\GuessingNumberZad4.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\bin\Debug\net8.0\GuessingNumberZad4.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\GuessingNumberZad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\GuessingNumberZad4.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\GuessingNumberZad4.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\GuessingNumberZad4.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\GuessingNumberZad4.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\refint\GuessingNumberZad4.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\GuessingNumberZad4.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\GuessingNumberZad4.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\GuessingNumberZad4\obj\Debug\net8.0\ref\GuessingNumberZad4.dll

@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\bin\Debug\net8.0\ListyIKolekcjeZad3.exe
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\bin\Debug\net8.0\ListyIKolekcjeZad3.deps.json
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\bin\Debug\net8.0\ListyIKolekcjeZad3.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\bin\Debug\net8.0\ListyIKolekcjeZad3.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\bin\Debug\net8.0\ListyIKolekcjeZad3.pdb
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ListyIKolekcjeZad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ListyIKolekcjeZad3.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ListyIKolekcjeZad3.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ListyIKolekcjeZad3.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ListyIKolekcjeZad3.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\refint\ListyIKolekcjeZad3.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ListyIKolekcjeZad3.pdb
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ListyIKolekcjeZad3.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\ListyIKolekcjeZad3\obj\Debug\net8.0\ref\ListyIKolekcjeZad3.dll

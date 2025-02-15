@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zad1.4.1/1.0.0": {
+        "dependencies": {
+          "Zad1.3.3": "1.0.0"
+        },
+        "runtime": {
+          "Zad1.4.1.dll": {}
+        }
+      },
+      "Zad1.3.1/1.0.0": {
+        "runtime": {
+          "Zad1.3.1.dll": {}
+        }
+      },
+      "Zad1.3.3/1.0.0": {
+        "dependencies": {
+          "Zad1.3.1": "1.0.0"
+        },
+        "runtime": {
+          "Zad1.3.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zad1.4.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zad1.3.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zad1.3.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\bin\Debug\net8.0\FunkcjaZad2.exe
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\bin\Debug\net8.0\FunkcjaZad2.deps.json
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\bin\Debug\net8.0\FunkcjaZad2.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\bin\Debug\net8.0\FunkcjaZad2.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\bin\Debug\net8.0\FunkcjaZad2.pdb
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\FunkcjaZad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\FunkcjaZad2.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\FunkcjaZad2.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\FunkcjaZad2.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\FunkcjaZad2.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\refint\FunkcjaZad2.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\FunkcjaZad2.pdb
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\FunkcjaZad2.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\FunkcjaZad2\obj\Debug\net8.0\ref\FunkcjaZad2.dll

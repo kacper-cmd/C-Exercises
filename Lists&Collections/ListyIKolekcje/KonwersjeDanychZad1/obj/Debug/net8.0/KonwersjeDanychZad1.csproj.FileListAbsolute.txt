@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\bin\Debug\net8.0\KonwersjeDanychZad1.exe
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\bin\Debug\net8.0\KonwersjeDanychZad1.deps.json
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\bin\Debug\net8.0\KonwersjeDanychZad1.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\bin\Debug\net8.0\KonwersjeDanychZad1.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\bin\Debug\net8.0\KonwersjeDanychZad1.pdb
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\KonwersjeDanychZad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\KonwersjeDanychZad1.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\KonwersjeDanychZad1.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\KonwersjeDanychZad1.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\KonwersjeDanychZad1.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\refint\KonwersjeDanychZad1.dll
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\KonwersjeDanychZad1.pdb
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\KonwersjeDanychZad1.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\ListyIKolekcje\KonwersjeDanychZad1\obj\Debug\net8.0\ref\KonwersjeDanychZad1.dll

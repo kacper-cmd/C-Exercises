@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28E728E2-6BE1-4F34-884F-51192048F567}|Sms\\Sms.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\loops\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E728E2-6BE1-4F34-884F-51192048F567}|Sms\\Sms.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D804E1-2E15-4516-8679-76F1B9492AD4}|Guess\\Guess.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\loops\\guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D804E1-2E15-4516-8679-76F1B9492AD4}|Guess\\Guess.csproj|solutionrelative:guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD63DCB-A517-45A5-95A6-DD3642A2E43D}|ChristmasTree\\ChristmasTree.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\loops\\christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD63DCB-A517-45A5-95A6-DD3642A2E43D}|ChristmasTree\\ChristmasTree.csproj|solutionrelative:christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B63EFC-4C8C-4144-BEE0-698497C85F41}|Add\\Add.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\loops\\add\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B63EFC-4C8C-4144-BEE0-698497C85F41}|Add\\Add.csproj|solutionrelative:add\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D933C6C1-841C-48E8-994A-988DD5AFE8A9}|Loops\\Loops.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D933C6C1-841C-48E8-994A-988DD5AFE8A9}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 621,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Sms\\Program.cs",
+              "RelativeDocumentMoniker": "Sms\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Sms\\Program.cs",
+              "RelativeToolTip": "Sms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:52:56.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Guess\\Program.cs",
+              "RelativeDocumentMoniker": "Guess\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Guess\\Program.cs",
+              "RelativeToolTip": "Guess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:52:53.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\ChristmasTree\\Program.cs",
+              "RelativeDocumentMoniker": "ChristmasTree\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\ChristmasTree\\Program.cs",
+              "RelativeToolTip": "ChristmasTree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:52:51.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Add\\Program.cs",
+              "RelativeDocumentMoniker": "Add\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Add\\Program.cs",
+              "RelativeToolTip": "Add\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:52:48.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\Loops\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:52:47.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

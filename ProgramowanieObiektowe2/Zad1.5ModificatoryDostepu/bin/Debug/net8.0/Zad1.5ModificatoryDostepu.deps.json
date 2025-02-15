@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zad1.5ModificatoryDostepu/1.0.0": {
+        "dependencies": {
+          "ClassLibraryZad1.5.1": "1.0.0"
+        },
+        "runtime": {
+          "Zad1.5ModificatoryDostepu.dll": {}
+        }
+      },
+      "ClassLibraryZad1.5.1/1.0.0": {
+        "runtime": {
+          "ClassLibraryZad1.5.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zad1.5ModificatoryDostepu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryZad1.5.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

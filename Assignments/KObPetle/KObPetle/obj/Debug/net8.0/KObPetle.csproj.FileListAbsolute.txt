@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\bin\Debug\net8.0\KObPetle.exe
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\bin\Debug\net8.0\KObPetle.deps.json
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\bin\Debug\net8.0\KObPetle.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\bin\Debug\net8.0\KObPetle.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\bin\Debug\net8.0\KObPetle.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\KObPetle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\KObPetle.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\KObPetle.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\KObPetle.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\KObPetle.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\refint\KObPetle.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\KObPetle.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\KObPetle.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\KObPetle\obj\Debug\net8.0\ref\KObPetle.dll

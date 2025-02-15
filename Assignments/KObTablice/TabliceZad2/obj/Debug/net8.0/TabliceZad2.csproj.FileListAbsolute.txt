@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\bin\Debug\net8.0\TabliceZad2.exe
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\bin\Debug\net8.0\TabliceZad2.deps.json
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\bin\Debug\net8.0\TabliceZad2.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\bin\Debug\net8.0\TabliceZad2.dll
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\bin\Debug\net8.0\TabliceZad2.pdb
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\TabliceZad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\TabliceZad2.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\TabliceZad2.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\TabliceZad2.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\TabliceZad2.dll
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\refint\TabliceZad2.dll
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\TabliceZad2.pdb
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\TabliceZad2.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObTablice\TabliceZad2\obj\Debug\net8.0\ref\TabliceZad2.dll

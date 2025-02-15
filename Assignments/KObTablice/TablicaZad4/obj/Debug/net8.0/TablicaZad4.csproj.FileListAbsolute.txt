@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\bin\Debug\net8.0\TablicaZad4.exe
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\bin\Debug\net8.0\TablicaZad4.deps.json
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\bin\Debug\net8.0\TablicaZad4.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\bin\Debug\net8.0\TablicaZad4.dll
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\bin\Debug\net8.0\TablicaZad4.pdb
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\TablicaZad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\TablicaZad4.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\TablicaZad4.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\TablicaZad4.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\TablicaZad4.dll
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\refint\TablicaZad4.dll
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\TablicaZad4.pdb
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\TablicaZad4.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObTablice\TablicaZad4\obj\Debug\net8.0\ref\TablicaZad4.dll

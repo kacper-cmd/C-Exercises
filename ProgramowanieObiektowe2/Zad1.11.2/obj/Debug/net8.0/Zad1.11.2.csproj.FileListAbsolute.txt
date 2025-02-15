@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\bin\Debug\net8.0\Zad1.11.2.exe
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\bin\Debug\net8.0\Zad1.11.2.deps.json
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\bin\Debug\net8.0\Zad1.11.2.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\bin\Debug\net8.0\Zad1.11.2.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\bin\Debug\net8.0\Zad1.11.2.pdb
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\Zad1.11.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\Zad1.11.2.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\Zad1.11.2.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\Zad1.11.2.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\Zad1.11.2.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\refint\Zad1.11.2.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\Zad1.11.2.pdb
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\Zad1.11.2.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.11.2\obj\Debug\net8.0\ref\Zad1.11.2.dll

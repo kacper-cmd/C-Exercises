@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\bin\Debug\net8.0\BMICalculator.exe
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\bin\Debug\net8.0\BMICalculator.deps.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\bin\Debug\net8.0\BMICalculator.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\bin\Debug\net8.0\BMICalculator.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\bin\Debug\net8.0\BMICalculator.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\BMICalculator.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\refint\BMICalculator.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\BMICalculator.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\BMICalculator.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\BMICalculator\obj\Debug\net8.0\ref\BMICalculator.dll

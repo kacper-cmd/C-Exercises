@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.exe
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.deps.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\bin\Debug\net8.0\CelsiusToFahrenheit.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\refint\CelsiusToFahrenheit.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\CelsiusToFahrenheit.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\CelsiusToFahrenheit\obj\Debug\net8.0\ref\CelsiusToFahrenheit.dll

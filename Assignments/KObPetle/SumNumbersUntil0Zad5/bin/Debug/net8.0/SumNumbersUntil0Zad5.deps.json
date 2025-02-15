@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SumNumbersUntil0Zad5/1.0.0": {
+        "runtime": {
+          "SumNumbersUntil0Zad5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumNumbersUntil0Zad5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\bin\Debug\net8.0\Zad1.7.1Wlasciwosci.exe
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\bin\Debug\net8.0\Zad1.7.1Wlasciwosci.deps.json
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\bin\Debug\net8.0\Zad1.7.1Wlasciwosci.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\bin\Debug\net8.0\Zad1.7.1Wlasciwosci.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\bin\Debug\net8.0\Zad1.7.1Wlasciwosci.pdb
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\Zad1.7.1Wlasciwosci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\Zad1.7.1Wlasciwosci.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\Zad1.7.1Wlasciwosci.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\Zad1.7.1Wlasciwosci.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\Zad1.7.1Wlasciwosci.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\refint\Zad1.7.1Wlasciwosci.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\Zad1.7.1Wlasciwosci.pdb
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\Zad1.7.1Wlasciwosci.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.7.1Wlasciwosci\obj\Debug\net8.0\ref\Zad1.7.1Wlasciwosci.dll

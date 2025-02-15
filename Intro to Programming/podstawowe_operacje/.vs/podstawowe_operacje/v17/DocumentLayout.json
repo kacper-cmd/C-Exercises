@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BFFF9A-6145-4071-B6D5-B2E0B954AF1E}|Bmi\\Bmi.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\podstawowe_operacje\\bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BFFF9A-6145-4071-B6D5-B2E0B954AF1E}|Bmi\\Bmi.csproj|solutionrelative:bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E035D5C-CD04-4EFF-81D1-E1C7687A1C9E}|Calculator\\Calculator.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\podstawowe_operacje\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E035D5C-CD04-4EFF-81D1-E1C7687A1C9E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618820ED-CE01-4ADA-BC02-0B05019292B1}|Comparator\\Comparator.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\podstawowe_operacje\\comparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618820ED-CE01-4ADA-BC02-0B05019292B1}|Comparator\\Comparator.csproj|solutionrelative:comparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CF7BF1-1DC3-4DBF-ABDD-0CD1563065F5}|Converter\\Converter.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\podstawowe_operacje\\converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CF7BF1-1DC3-4DBF-ABDD-0CD1563065F5}|Converter\\Converter.csproj|solutionrelative:converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D783E24-4993-417A-8538-115AE6E2EF3E}|podstawowe_operacje\\podstawowe_operacje.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\podstawowe_operacje\\podstawowe_operacje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D783E24-4993-417A-8538-115AE6E2EF3E}|podstawowe_operacje\\podstawowe_operacje.csproj|solutionrelative:podstawowe_operacje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E67FB8-F743-469A-B224-AEA4C995A5E7}|Installment\\Installment.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\podstawowe_operacje\\installment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E67FB8-F743-469A-B224-AEA4C995A5E7}|Installment\\Installment.csproj|solutionrelative:installment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02806A7F-8B5A-4380-A189-C07D839C6304}|Tax\\Tax.csproj|c:\\users\\kacpe\\desktop\\ef\\intro to programming\\podstawowe_operacje\\tax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02806A7F-8B5A-4380-A189-C07D839C6304}|Tax\\Tax.csproj|solutionrelative:tax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 621,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Bmi\\Program.cs",
+              "RelativeDocumentMoniker": "Bmi\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Bmi\\Program.cs",
+              "RelativeToolTip": "Bmi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:53:20.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:53:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Comparator\\Program.cs",
+              "RelativeDocumentMoniker": "Comparator\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Comparator\\Program.cs",
+              "RelativeToolTip": "Comparator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:53:14.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Converter\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Converter\\Program.cs",
+              "RelativeToolTip": "Converter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:53:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\podstawowe_operacje\\Program.cs",
+              "RelativeDocumentMoniker": "podstawowe_operacje\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\podstawowe_operacje\\Program.cs",
+              "RelativeToolTip": "podstawowe_operacje\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:53:10.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Installment\\Program.cs",
+              "RelativeDocumentMoniker": "Installment\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Installment\\Program.cs",
+              "RelativeToolTip": "Installment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:53:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Tax\\Program.cs",
+              "RelativeDocumentMoniker": "Tax\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Intro to Programming\\podstawowe_operacje\\Tax\\Program.cs",
+              "RelativeToolTip": "Tax\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:53:06.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

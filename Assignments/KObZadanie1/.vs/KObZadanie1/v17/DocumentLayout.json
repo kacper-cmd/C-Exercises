@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1532844-CFE5-41C5-8FB8-3D0356C3B80F}|KObZadanie1\\KObZadanie1.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\kobzadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1532844-CFE5-41C5-8FB8-3D0356C3B80F}|KObZadanie1\\KObZadanie1.csproj|solutionrelative:kobzadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38FEC6-BB5B-4895-AF31-82A7186B0AD2}|InstalmentsEx4\\InstalmentsEx4.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\instalmentsex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38FEC6-BB5B-4895-AF31-82A7186B0AD2}|InstalmentsEx4\\InstalmentsEx4.csproj|solutionrelative:instalmentsex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261529ED-3FF0-45F8-807A-757BF8D26830}|IncomeTax1.2-3\\IncomeTax1.2-3.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\incometax1.2-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261529ED-3FF0-45F8-807A-757BF8D26830}|IncomeTax1.2-3\\IncomeTax1.2-3.csproj|solutionrelative:incometax1.2-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5579832-3974-4380-9D0D-3A3850C54E12}|ComparisonOfTwoNumbers\\ComparisonOfTwoNumbers.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\comparisonoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5579832-3974-4380-9D0D-3A3850C54E12}|ComparisonOfTwoNumbers\\ComparisonOfTwoNumbers.csproj|solutionrelative:comparisonoftwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9AE5C0-0885-430B-9A09-FFE82CD0ABCA}|CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\celsiustofahrenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9AE5C0-0885-430B-9A09-FFE82CD0ABCA}|CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj|solutionrelative:celsiustofahrenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12730936-9E9C-45EB-BFCC-E65A7A1EA9E6}|Calculator\\Calculator.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12730936-9E9C-45EB-BFCC-E65A7A1EA9E6}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88A1CC8-BFA3-437A-95FD-FF7FD8745A13}|BMICalculator\\BMICalculator.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\bmicalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88A1CC8-BFA3-437A-95FD-FF7FD8745A13}|BMICalculator\\BMICalculator.csproj|solutionrelative:bmicalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9AE5C0-0885-430B-9A09-FFE82CD0ABCA}|CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj|c:\\users\\kacper\\desktop\\c#\\kobzadanie1\\celsiustofahrenheit\\celsiustofahrenheit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB9AE5C0-0885-430B-9A09-FFE82CD0ABCA}|CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj|solutionrelative:celsiustofahrenheit\\celsiustofahrenheit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CelsiusToFahrenheit.csproj",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
+              "RelativeDocumentMoniker": "CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
+              "RelativeToolTip": "CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T05:15:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\InstalmentsEx4\\Program.cs",
+              "RelativeDocumentMoniker": "InstalmentsEx4\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\InstalmentsEx4\\Program.cs",
+              "RelativeToolTip": "InstalmentsEx4\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:09:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\IncomeTax1.2-3\\Program.cs",
+              "RelativeDocumentMoniker": "IncomeTax1.2-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\IncomeTax1.2-3\\Program.cs",
+              "RelativeToolTip": "IncomeTax1.2-3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:05:18.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\ComparisonOfTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "ComparisonOfTwoNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\ComparisonOfTwoNumbers\\Program.cs",
+              "RelativeToolTip": "ComparisonOfTwoNumbers\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:27:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\CelsiusToFahrenheit\\Program.cs",
+              "RelativeDocumentMoniker": "CelsiusToFahrenheit\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\CelsiusToFahrenheit\\Program.cs",
+              "RelativeToolTip": "CelsiusToFahrenheit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:10:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\BMICalculator\\Program.cs",
+              "RelativeDocumentMoniker": "BMICalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\BMICalculator\\Program.cs",
+              "RelativeToolTip": "BMICalculator\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:19:27.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:40:27.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\KObZadanie1\\Program.cs",
+              "RelativeDocumentMoniker": "KObZadanie1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\c#\\KObZadanie1\\KObZadanie1\\Program.cs",
+              "RelativeToolTip": "KObZadanie1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:33:53.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

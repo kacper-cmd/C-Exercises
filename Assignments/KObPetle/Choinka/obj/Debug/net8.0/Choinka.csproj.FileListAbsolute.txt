@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\bin\Debug\net8.0\Choinka.exe
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\bin\Debug\net8.0\Choinka.deps.json
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\bin\Debug\net8.0\Choinka.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\bin\Debug\net8.0\Choinka.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\bin\Debug\net8.0\Choinka.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\Choinka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\Choinka.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\Choinka.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\Choinka.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\Choinka.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\refint\Choinka.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\Choinka.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\Choinka.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\Choinka\obj\Debug\net8.0\ref\Choinka.dll

@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\bin\Debug\net8.0\Zad1.8.1ElementyStatyczne.exe
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\bin\Debug\net8.0\Zad1.8.1ElementyStatyczne.deps.json
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\bin\Debug\net8.0\Zad1.8.1ElementyStatyczne.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\bin\Debug\net8.0\Zad1.8.1ElementyStatyczne.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\bin\Debug\net8.0\Zad1.8.1ElementyStatyczne.pdb
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\Zad1.8.1ElementyStatyczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\Zad1.8.1ElementyStatyczne.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\Zad1.8.1ElementyStatyczne.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\Zad1.8.1ElementyStatyczne.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\Zad1.8.1ElementyStatyczne.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\refint\Zad1.8.1ElementyStatyczne.dll
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\Zad1.8.1ElementyStatyczne.pdb
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\Zad1.8.1ElementyStatyczne.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\ProgramowanieObiektowe2\ProgramowanieObiektowe2\Zad1.8.1ElementyStatyczne\obj\Debug\net8.0\ref\Zad1.8.1ElementyStatyczne.dll

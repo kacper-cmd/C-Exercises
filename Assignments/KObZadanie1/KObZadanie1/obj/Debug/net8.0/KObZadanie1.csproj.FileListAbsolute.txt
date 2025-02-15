@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\bin\Debug\net8.0\KObZadanie1.exe
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\bin\Debug\net8.0\KObZadanie1.deps.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\bin\Debug\net8.0\KObZadanie1.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\bin\Debug\net8.0\KObZadanie1.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\bin\Debug\net8.0\KObZadanie1.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\KObZadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\KObZadanie1.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\KObZadanie1.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\KObZadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\KObZadanie1.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\refint\KObZadanie1.dll
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\KObZadanie1.pdb
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\KObZadanie1.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObZadanie1\KObZadanie1\obj\Debug\net8.0\ref\KObZadanie1.dll

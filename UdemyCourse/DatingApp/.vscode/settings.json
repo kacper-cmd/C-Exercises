@@ -1,0 +1,46 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Blog",
+            "database": "C:\\Users\\broni\\AppData\\Local\\blogging.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Dish",
+            "database": "C:\\Users\\broni\\source\\repos\\Projekt\\data.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:\\Users\\broni\\Project_data_base\\data.db",
+            "name": "Projekt"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:DatingApp}/API/datingapp.db",
+            "name": "DatingApp"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:DatingApp}/API/datingapp.db",
+            "name": "DatingApp"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:DatingApp}/API/datingapp.db",
+            "name": "DatingApp"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:DatingApp}/API/datingapp.db",
+            "name": "DatingApp"
+        }
+    ]
+}

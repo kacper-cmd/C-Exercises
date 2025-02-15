@@ -1,0 +1,14 @@
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\bin\Debug\net8.0\SMSZad6.exe
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\bin\Debug\net8.0\SMSZad6.deps.json
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\bin\Debug\net8.0\SMSZad6.runtimeconfig.json
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\bin\Debug\net8.0\SMSZad6.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\bin\Debug\net8.0\SMSZad6.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\SMSZad6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\SMSZad6.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\SMSZad6.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\SMSZad6.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\SMSZad6.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\refint\SMSZad6.dll
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\SMSZad6.pdb
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\SMSZad6.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\c#\KObPetle\SMSZad6\obj\Debug\net8.0\ref\SMSZad6.dll
