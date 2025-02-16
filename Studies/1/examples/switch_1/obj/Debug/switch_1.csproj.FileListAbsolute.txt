@@ -1,0 +1,5 @@
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\switch_1\bin\Debug\switch_1.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\switch_1\bin\Debug\switch_1.pdb
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\switch_1\obj\Debug\ResolveAssemblyReference.cache
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\switch_1\obj\Debug\switch_1.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\switch_1\obj\Debug\switch_1.pdb

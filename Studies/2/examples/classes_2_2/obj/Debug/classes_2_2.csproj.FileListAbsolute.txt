@@ -1,0 +1,11 @@
+F:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes5\classes_2_2\obj\Debug\klasy_2_2.exe
+F:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes5\classes_2_2\obj\Debug\klasy_2_2.pdb
+F:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes5\classes_2_2\obj\Debug\ResolveAssemblyReference.cache
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes5\classes_2_2\bin\Debug\klasy_2_2.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes5\classes_2_2\bin\Debug\klasy_2_2.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes3,5i6\examples\classes_2_2\bin\Debug\klasy_2_2.exe.config
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes3,5i6\examples\classes_2_2\obj\Debug\klasy_2_2.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes3,5i6\examples\classes_2_2\obj\Debug\klasy_2_2.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes3,5i6\examples\classes_2_2\bin\Debug\klasy_2_2.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes3,5i6\examples\classes_2_2\bin\Debug\klasy_2_2.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes3,5i6\examples\classes_2_2\obj\Debug\classes_2_2.csprojResolveAssemblyReference.cache

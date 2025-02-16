@@ -1,0 +1,7 @@
+d:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\classes_2_3\bin\Debug\classes_2_3.exe.config
+d:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\classes_2_3\bin\Debug\classes_2_3.exe
+d:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\classes_2_3\bin\Debug\classes_2_3.pdb
+d:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\classes_2_3\obj\Debug\classes_2_3.csproj.CoreCompileInputs.cache
+d:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\classes_2_3\obj\Debug\classes_2_3.exe
+d:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\classes_2_3\obj\Debug\classes_2_3.pdb
+d:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\classes_2_3\obj\Debug\classes_2_3.csprojAssemblyReference.cache

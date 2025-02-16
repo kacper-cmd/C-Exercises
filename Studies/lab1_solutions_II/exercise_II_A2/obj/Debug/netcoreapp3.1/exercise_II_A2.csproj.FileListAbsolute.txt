@@ -1,0 +1,13 @@
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\bin\Debug\netcoreapp3.1\exercise_II_A2.exe
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\bin\Debug\netcoreapp3.1\exercise_II_A2.deps.json
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\bin\Debug\netcoreapp3.1\exercise_II_A2.runtimeconfig.json
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\bin\Debug\netcoreapp3.1\exercise_II_A2.runtimeconfig.dev.json
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\bin\Debug\netcoreapp3.1\exercise_II_A2.dll
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\bin\Debug\netcoreapp3.1\exercise_II_A2.pdb
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\obj\Debug\netcoreapp3.1\exercise_II_A2.csprojAssemblyReference.cache
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\obj\Debug\netcoreapp3.1\exercise_II_A2.AssemblyInfoInputs.cache
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\obj\Debug\netcoreapp3.1\exercise_II_A2.AssemblyInfo.cs
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\obj\Debug\netcoreapp3.1\exercise_II_A2.csproj.CoreCompileInputs.cache
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\obj\Debug\netcoreapp3.1\exercise_II_A2.dll
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\obj\Debug\netcoreapp3.1\exercise_II_A2.pdb
+C:\Users\kprzyby\Documents\PwC#\laboratories\classes1\exercise_II_A2\obj\Debug\netcoreapp3.1\exercise_II_A2.genruntimeconfig.cache

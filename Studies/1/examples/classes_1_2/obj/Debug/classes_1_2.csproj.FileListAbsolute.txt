@@ -1,0 +1,8 @@
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes3\classes_1_2\obj\Debug\klasy_1_2.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes3\classes_1_2\obj\Debug\klasy_1_2.pdb
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes3\classes_1_2\bin\Debug\klasy_1_2.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes3\classes_1_2\bin\Debug\klasy_1_2.pdb
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes3\classes_1_2\obj\Debug\ResolveAssemblyReference.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes2,3i4\examples\classes_1_2\bin\Debug\klasy_1_2.exe.config
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes2,3i4\examples\classes_1_2\obj\Debug\klasy_1_2.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\classes2,3i4\examples\classes_1_2\obj\Debug\klasy_1_2.pdb

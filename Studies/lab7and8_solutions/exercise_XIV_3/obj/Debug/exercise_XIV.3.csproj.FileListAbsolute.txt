@@ -1,0 +1,12 @@
+C:\Users\kprzyby\Documents\KP\PwC#\dzienne\classes7and8\collections_2\bin\Debug\kolekcje_2.exe
+C:\Users\kprzyby\Documents\KP\PwC#\dzienne\classes7and8\collections_2\bin\Debug\kolekcje_2.pdb
+C:\Users\kprzyby\Documents\KP\PwC#\dzienne\classes7and8\collections_2\obj\Debug\exercise_XIV.3.csprojAssemblyReference.cache
+C:\Users\kprzyby\Documents\KP\PwC#\dzienne\classes7and8\collections_2\obj\Debug\exercise_XIV.3.csproj.CoreCompileInputs.cache
+C:\Users\kprzyby\Documents\KP\PwC#\dzienne\classes7and8\collections_2\obj\Debug\kolekcje_2.exe
+C:\Users\kprzyby\Documents\KP\PwC#\dzienne\classes7and8\collections_2\obj\Debug\kolekcje_2.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XIV_3\bin\Debug\kolekcje_2.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XIV_3\bin\Debug\kolekcje_2.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XIV_3\obj\Debug\exercise_XIV.3.csprojAssemblyReference.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XIV_3\obj\Debug\exercise_XIV.3.csproj.CoreCompileInputs.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XIV_3\obj\Debug\kolekcje_2.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XIV_3\obj\Debug\kolekcje_2.pdb

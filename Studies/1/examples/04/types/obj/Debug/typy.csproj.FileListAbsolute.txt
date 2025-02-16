@@ -1,0 +1,7 @@
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_z\zaj1i2\04\typy\bin\Debug\typy.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_z\zaj1i2\04\typy\bin\Debug\typy.pdb
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_z\zaj1i2\04\typy\obj\Debug\ResolveAssemblyReference.cache
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_z\zaj1i2\04\typy\obj\Debug\typy.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_z\zaj1i2\04\typy\obj\Debug\typy.pdb
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\04\types\obj\Debug\typy.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\04\types\obj\Debug\typy.pdb

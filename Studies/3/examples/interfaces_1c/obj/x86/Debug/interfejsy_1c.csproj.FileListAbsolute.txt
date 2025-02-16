@@ -1,0 +1,5 @@
+F:\WSB\Dydaktyka\Programowanie_C#\pwcs_2015_2016_III_z\zaj5i6\interfejsy_1c\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WSB\Dydaktyka\Programowanie_C#\pwcs_2015_2016_III_z\zaj5i6\interfejsy_1c\bin\Debug\interfejsy_1c.exe
+F:\WSB\Dydaktyka\Programowanie_C#\pwcs_2015_2016_III_z\zaj5i6\interfejsy_1c\bin\Debug\interfejsy_1c.pdb
+F:\WSB\Dydaktyka\Programowanie_C#\pwcs_2015_2016_III_z\zaj5i6\interfejsy_1c\obj\x86\Debug\interfejsy_1c.exe
+F:\WSB\Dydaktyka\Programowanie_C#\pwcs_2015_2016_III_z\zaj5i6\interfejsy_1c\obj\x86\Debug\interfejsy_1c.pdb

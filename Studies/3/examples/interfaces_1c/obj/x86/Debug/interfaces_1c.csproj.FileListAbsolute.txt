@@ -1,0 +1,2 @@
+D:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2018_2019_II_dz_eng\classes6\examples\interfejsy_1c\obj\x86\Debug\interfejsy_1c.exe
+D:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2018_2019_II_dz_eng\classes6\examples\interfejsy_1c\obj\x86\Debug\interfejsy_1c.pdb

@@ -1,0 +1,7 @@
+f:\WSB\Dydaktyka\podyplomowe\SPP_2017_2018\zaj1i2\03_2\Witaj3\bin\Debug\03_2.exe
+f:\WSB\Dydaktyka\podyplomowe\SPP_2017_2018\zaj1i2\03_2\Witaj3\bin\Debug\03_2.pdb
+f:\WSB\Dydaktyka\podyplomowe\SPP_2017_2018\zaj1i2\03_2\Witaj3\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\WSB\Dydaktyka\podyplomowe\SPP_2017_2018\zaj1i2\03_2\Witaj3\obj\x86\Debug\03_2.exe
+f:\WSB\Dydaktyka\podyplomowe\SPP_2017_2018\zaj1i2\03_2\Witaj3\obj\x86\Debug\03_2.pdb
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\03_2\Witaj3\obj\x86\Debug\03_2.exe
+f:\WSB\Dydaktyka\Programowanie_C#\plbwcs_2017_2018_II_dz_eng\classes1&2\03_2\Witaj3\obj\x86\Debug\03_2.pdb

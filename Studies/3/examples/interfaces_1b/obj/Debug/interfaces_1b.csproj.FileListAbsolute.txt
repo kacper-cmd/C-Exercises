@@ -1,0 +1,5 @@
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\interfaces_1b\bin\Debug\interfaces_1b.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\interfaces_1b\bin\Debug\interfaces_1b.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\interfaces_1b\obj\Debug\interfaces_1b.csproj.CoreCompileInputs.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\interfaces_1b\obj\Debug\interfaces_1b.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\lecture_3\examples\interfaces_1b\obj\Debug\interfaces_1b.pdb

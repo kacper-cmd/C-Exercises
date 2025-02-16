@@ -1,0 +1,14 @@
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\obj\Debug\invoice_II_12.csproj.CoreCompileInputs.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\obj\Debug\invoice.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\obj\Debug\invoice.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\invoice.exe.config
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\invoice.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\invoice.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\group_person.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\product.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\group_person.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\product.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\product.exe.config
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\obj\Debug\invoice_II_12.csproj.CopyComplete
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\bin\Debug\group_person.exe.config
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\exercises\exercise_II_12\invoice\obj\Debug\invoice_II_12.csprojAssemblyReference.cache

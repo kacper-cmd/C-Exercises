@@ -1,0 +1,5 @@
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj2\klasy_2\klasy_2_2\obj\Debug\klasy_1_3.exe
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj2\klasy_2\klasy_2_2\obj\Debug\ResolveAssemblyReference.cache
+f:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj2\klasy_2\klasy_2_2\bin\Debug\klasy_1_3.exe
+f:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj2\klasy_2\klasy_2_2\bin\Debug\klasy_1_3.pdb
+f:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj2\klasy_2\klasy_2_2\obj\Debug\klasy_1_3.pdb

@@ -1,0 +1,17 @@
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj1\klasy_1\klasy_1_2\obj\Debug\ResolveAssemblyReference.cache
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj1\klasy_1\klasy_1_2\bin\Debug\klasy_1_2.exe
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj1\klasy_1\klasy_1_2\bin\Debug\klasy_1_2.pdb
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj1\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.exe
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj1\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.pdb
+f:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj2\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.exe
+f:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj2\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.pdb
+f:\WSB\Dydaktyka\podyplomowe\.NET_2010_2011\programowanie_C#\zaj2\klasy_1\klasy_1_2\bin\Debug\klasy_1_2.exe
+f:\WSB\Dydaktyka\podyplomowe\.NET_2010_2011\programowanie_C#\zaj2\klasy_1\klasy_1_2\bin\Debug\klasy_1_2.pdb
+f:\WSB\Dydaktyka\podyplomowe\.NET_2010_2011\programowanie_C#\zaj2\klasy_1\klasy_1_2\obj\Debug\ResolveAssemblyReference.cache
+f:\WSB\Dydaktyka\podyplomowe\.NET_2010_2011\programowanie_C#\zaj2\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.exe
+f:\WSB\Dydaktyka\podyplomowe\.NET_2010_2011\programowanie_C#\zaj2\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.pdb
+f:\WSB\Dydaktyka\podyplomowe\SPP_2012_2013\zaj2\klasy_1\klasy_1_2\bin\Debug\klasy_1_2.exe
+f:\WSB\Dydaktyka\podyplomowe\SPP_2012_2013\zaj2\klasy_1\klasy_1_2\bin\Debug\klasy_1_2.pdb
+f:\WSB\Dydaktyka\podyplomowe\SPP_2012_2013\zaj2\klasy_1\klasy_1_2\obj\Debug\ResolveAssemblyReference.cache
+f:\WSB\Dydaktyka\podyplomowe\SPP_2012_2013\zaj2\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.exe
+f:\WSB\Dydaktyka\podyplomowe\SPP_2012_2013\zaj2\klasy_1\klasy_1_2\obj\Debug\klasy_1_2.pdb

@@ -1,0 +1,13 @@
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\exercises\exercise_XV_1\bin\Debug\rozszerzenia_1.exe.config
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\exercises\exercise_XV_1\bin\Debug\rozszerzenia_1.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\exercises\exercise_XV_1\bin\Debug\rozszerzenia_1.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\exercises\exercise_XV_1\obj\Debug\exercise_XV_1.csprojAssemblyReference.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\exercises\exercise_XV_1\obj\Debug\exercise_XV_1.csproj.CoreCompileInputs.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\exercises\exercise_XV_1\obj\Debug\rozszerzenia_1.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2019_2020_II_dz_eng\exercises\exercise_XV_1\obj\Debug\rozszerzenia_1.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XV_1\bin\Debug\rozszerzenia_1.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XV_1\bin\Debug\rozszerzenia_1.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XV_1\obj\Debug\exercise_XV_1.csprojAssemblyReference.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XV_1\obj\Debug\exercise_XV_1.csproj.CoreCompileInputs.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XV_1\obj\Debug\rozszerzenia_1.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2021_2022_II_dz_eng\laboratories\classes_7&8\classes7and8\exercise_XV_1\obj\Debug\rozszerzenia_1.pdb

@@ -1,0 +1,6 @@
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\lecture_1\examples\arrays_2\bin\Debug\tablice_2.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\lecture_1\examples\arrays_2\bin\Debug\tablice_2.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\lecture_1\examples\arrays_2\obj\Debug\arrays_2.csprojAssemblyReference.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\lecture_1\examples\arrays_2\obj\Debug\arrays_2.csproj.CoreCompileInputs.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\lecture_1\examples\arrays_2\obj\Debug\tablice_2.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\lecture_1\examples\arrays_2\obj\Debug\tablice_2.pdb

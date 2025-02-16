@@ -1,0 +1,5 @@
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj4\klasy_4\wyjatki_1\bin\Debug\wyjatki_1.exe
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj4\klasy_4\wyjatki_1\bin\Debug\wyjatki_1.pdb
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj4\klasy_4\wyjatki_1\obj\Debug\ResolveAssemblyReference.cache
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj4\klasy_4\wyjatki_1\obj\Debug\wyjatki_1.exe
+F:\WSB\Dydaktyka\podyplomowe\programowanie_C#\zaj4\klasy_4\wyjatki_1\obj\Debug\wyjatki_1.pdb

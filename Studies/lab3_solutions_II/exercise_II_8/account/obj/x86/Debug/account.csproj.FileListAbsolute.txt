@@ -1,0 +1,10 @@
+F:\WSB\Dydaktyka\podyplomowe\SPP_2014_2015_ros\exercises_solutions\exercise_II_8\account\bin\Debug\account.exe
+F:\WSB\Dydaktyka\podyplomowe\SPP_2014_2015_ros\exercises_solutions\exercise_II_8\account\bin\Debug\account.pdb
+F:\WSB\Dydaktyka\podyplomowe\SPP_2014_2015_ros\exercises_solutions\exercise_II_8\account\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WSB\Dydaktyka\podyplomowe\SPP_2014_2015_ros\exercises_solutions\exercise_II_8\account\obj\x86\Debug\account.exe
+F:\WSB\Dydaktyka\podyplomowe\SPP_2014_2015_ros\exercises_solutions\exercise_II_8\account\obj\x86\Debug\account.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\laboratories\exercises\exercise_II_8\account\bin\Debug\account.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\laboratories\exercises\exercise_II_8\account\bin\Debug\account.pdb
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\laboratories\exercises\exercise_II_8\account\obj\x86\Debug\account.csproj.CoreCompileInputs.cache
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\laboratories\exercises\exercise_II_8\account\obj\x86\Debug\account.exe
+D:\WSB\Dydaktyka\Programowanie_C#\pwcs_2020_2021_II_dz_eng\laboratories\exercises\exercise_II_8\account\obj\x86\Debug\account.pdb
