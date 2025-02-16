@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8BAB50AB-36E2-4CE4-9446-BCD92EFF20F9}|C#Programs\\C#Programs.csproj|c:\\users\\kacpe\\desktop\\ef\\studies\\c#programs\\c#programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAB50AB-36E2-4CE4-9446-BCD92EFF20F9}|C#Programs\\C#Programs.csproj|solutionrelative:c#programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFF38660-A07E-4263-B4BF-181AA2C85527}|Algorithms\\Algorithms.csproj|c:\\users\\kacpe\\desktop\\ef\\studies\\c#programs\\algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFF38660-A07E-4263-B4BF-181AA2C85527}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{8BAB50AB-36E2-4CE4-9446-BCD92EFF20F9}|C#Programs\\C#Programs.csproj|solutionrelative:c#programs\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BAB50AB-36E2-4CE4-9446-BCD92EFF20F9}|C#Programs\\C#Programs.csproj|c:\\users\\kacpe\\desktop\\ef\\studies\\c#programs\\c#programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BAB50AB-36E2-4CE4-9446-BCD92EFF20F9}|C#Programs\\C#Programs.csproj|solutionrelative:c#programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BAB50AB-36E2-4CE4-9446-BCD92EFF20F9}|C#Programs\\C#Programs.csproj|c:\\users\\kacpe\\desktop\\ef\\studies\\c#programs\\c#programs\\sortutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BAB50AB-36E2-4CE4-9446-BCD92EFF20F9}|C#Programs\\C#Programs.csproj|solutionrelative:c#programs\\sortutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -146,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 621,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KruskalMST.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Kruskala\\KruskalMST.cs",
               "RelativeDocumentMoniker": "Algorithms\\Kruskala\\KruskalMST.cs",
@@ -174,12 +174,11 @@
               "RelativeToolTip": "Algorithms\\Kruskala\\KruskalMST.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:16:57.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:16:57.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Graph.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Kruskala\\Graph.cs",
               "RelativeDocumentMoniker": "Algorithms\\Kruskala\\Graph.cs",
@@ -187,12 +186,11 @@
               "RelativeToolTip": "Algorithms\\Kruskala\\Graph.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:16:47.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:16:47.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IGraph.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Kruskala\\IGraph.cs",
               "RelativeDocumentMoniker": "Algorithms\\Kruskala\\IGraph.cs",
@@ -200,12 +198,11 @@
               "RelativeToolTip": "Algorithms\\Kruskala\\IGraph.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:16:38.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:16:38.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Edge.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Kruskala\\Edge.cs",
               "RelativeDocumentMoniker": "Algorithms\\Kruskala\\Edge.cs",
@@ -213,12 +210,11 @@
               "RelativeToolTip": "Algorithms\\Kruskala\\Edge.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:16:28.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:16:28.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnionFind.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Kruskala\\UnionFind.cs",
               "RelativeDocumentMoniker": "Algorithms\\Kruskala\\UnionFind.cs",
@@ -226,12 +222,11 @@
               "RelativeToolTip": "Algorithms\\Kruskala\\UnionFind.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:16:17.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:16:17.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IUnionFind.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Kruskala\\IUnionFind.cs",
               "RelativeDocumentMoniker": "Algorithms\\Kruskala\\IUnionFind.cs",
@@ -239,12 +234,11 @@
               "RelativeToolTip": "Algorithms\\Kruskala\\IUnionFind.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:16:03.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:16:03.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SearchService.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\SearchService.cs",
               "RelativeDocumentMoniker": "Algorithms\\SearchService.cs",
@@ -252,12 +246,11 @@
               "RelativeToolTip": "Algorithms\\SearchService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:15:13.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:15:13.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LinearSearchAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\LinearSearchAlgorithm.cs",
               "RelativeDocumentMoniker": "Algorithms\\LinearSearchAlgorithm.cs",
@@ -265,12 +258,11 @@
               "RelativeToolTip": "Algorithms\\LinearSearchAlgorithm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:15:03.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:15:03.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ISearchAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\ISearchAlgorithm.cs",
               "RelativeDocumentMoniker": "Algorithms\\ISearchAlgorithm.cs",
@@ -278,12 +270,11 @@
               "RelativeToolTip": "Algorithms\\ISearchAlgorithm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:14:53.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:14:53.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SelectionSortStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\SelectionSortStrategy.cs",
               "RelativeDocumentMoniker": "Algorithms\\SelectionSortStrategy.cs",
@@ -291,12 +282,11 @@
               "RelativeToolTip": "Algorithms\\SelectionSortStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:13:16.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:13:16.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BucketSortAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\BucketSortAlgorithm.cs",
               "RelativeDocumentMoniker": "Algorithms\\BucketSortAlgorithm.cs",
@@ -304,12 +294,11 @@
               "RelativeToolTip": "Algorithms\\BucketSortAlgorithm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:11:24.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:11:24.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IBucketSort.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\IBucketSort.cs",
               "RelativeDocumentMoniker": "Algorithms\\IBucketSort.cs",
@@ -317,12 +306,11 @@
               "RelativeToolTip": "Algorithms\\IBucketSort.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:11:13.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:11:13.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Program.cs",
               "RelativeDocumentMoniker": "Algorithms\\Program.cs",
@@ -335,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "InsertionSortStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\InsertionSortStrategy.cs",
               "RelativeDocumentMoniker": "Algorithms\\InsertionSortStrategy.cs",
@@ -343,12 +331,24 @@
               "RelativeToolTip": "Algorithms\\InsertionSortStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:05:53.122Z",
+              "WhenOpened": "2025-02-16T16:05:53.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\C#Programs\\Program.cs",
+              "RelativeDocumentMoniker": "C#Programs\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\C#Programs\\Program.cs",
+              "RelativeToolTip": "C#Programs\\Program.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAD4v3IBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:04:18.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MergeSortStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\MergeSortStrategy.cs",
               "RelativeDocumentMoniker": "Algorithms\\MergeSortStrategy.cs",
@@ -356,12 +356,11 @@
               "RelativeToolTip": "Algorithms\\MergeSortStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:04:51.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:04:51.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "QuickSortStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\QuickSortStrategy.cs",
               "RelativeDocumentMoniker": "Algorithms\\QuickSortStrategy.cs",
@@ -369,12 +368,11 @@
               "RelativeToolTip": "Algorithms\\QuickSortStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:03:35.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:03:35.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ArrayExtensions.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\ArrayExtensions.cs",
               "RelativeDocumentMoniker": "Algorithms\\ArrayExtensions.cs",
@@ -382,12 +380,11 @@
               "RelativeToolTip": "Algorithms\\ArrayExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:01:12.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:01:12.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Sorter.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\Sorter.cs",
               "RelativeDocumentMoniker": "Algorithms\\Sorter.cs",
@@ -395,12 +392,11 @@
               "RelativeToolTip": "Algorithms\\Sorter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAEwBYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:59:32.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:59:32.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "BubbleSortStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\BubbleSortStrategy.cs",
               "RelativeDocumentMoniker": "Algorithms\\BubbleSortStrategy.cs",
@@ -408,12 +404,11 @@
               "RelativeToolTip": "Algorithms\\BubbleSortStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:59:09.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:59:09.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ISortStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Algorithms\\ISortStrategy.cs",
               "RelativeDocumentMoniker": "Algorithms\\ISortStrategy.cs",
@@ -421,8 +416,7 @@
               "RelativeToolTip": "Algorithms\\ISortStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:58:58.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:58:58.722Z"
             },
             {
               "$type": "Document",
@@ -434,8 +428,7 @@
               "RelativeToolTip": "C#Programs\\SortUtility.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:48:55.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:48:55.497Z"
             },
             {
               "$type": "Document",
@@ -447,8 +440,7 @@
               "RelativeToolTip": "C#Programs\\ReverseComparer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:43:51.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:43:51.533Z"
             },
             {
               "$type": "Document",
@@ -460,8 +452,7 @@
               "RelativeToolTip": "Stack\\MyStack.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAASwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:39:08.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:39:08.132Z"
             },
             {
               "$type": "Document",
@@ -473,8 +464,7 @@
               "RelativeToolTip": "Stack\\IStack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:38:53.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:38:53.447Z"
             },
             {
               "$type": "Document",
@@ -486,12 +476,11 @@
               "RelativeToolTip": "Stack\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:38:33.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:38:33.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "MyQueue.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Queue\\MyQueue.cs",
               "RelativeDocumentMoniker": "Queue\\MyQueue.cs",
@@ -499,12 +488,11 @@
               "RelativeToolTip": "Queue\\MyQueue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:35:52.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:35:52.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IQueue.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Queue\\IQueue.cs",
               "RelativeDocumentMoniker": "Queue\\IQueue.cs",
@@ -512,12 +500,11 @@
               "RelativeToolTip": "Queue\\IQueue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:35:27.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:35:27.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\Queue\\Program.cs",
               "RelativeDocumentMoniker": "Queue\\Program.cs",
@@ -525,8 +512,7 @@
               "RelativeToolTip": "Queue\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:34:03.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:34:03.482Z"
             },
             {
               "$type": "Document",
@@ -538,8 +524,7 @@
               "RelativeToolTip": "C#Programs\\ListExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:31:11.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:31:11.55Z"
             },
             {
               "$type": "Document",
@@ -551,12 +536,11 @@
               "RelativeToolTip": "C#Programs\\StringBuilderExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:30:31.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:30:31.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "StringExtensions.cs",
               "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\C#Programs\\StringExtensions.cs",
               "RelativeDocumentMoniker": "C#Programs\\StringExtensions.cs",
@@ -564,8 +548,7 @@
               "RelativeToolTip": "C#Programs\\StringExtensions.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAowF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:29:20.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:29:20.66Z"
             },
             {
               "$type": "Document",
@@ -577,8 +560,7 @@
               "RelativeToolTip": "C#Programs\\ArrayUtils.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:27:01.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:27:01.438Z"
             },
             {
               "$type": "Document",
@@ -590,21 +572,7 @@
               "RelativeToolTip": "C#Programs\\ArrayExtensions.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:08:28.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\C#Programs\\Program.cs",
-              "RelativeDocumentMoniker": "C#Programs\\Program.cs",
-              "ToolTip": "C:\\Users\\kacpe\\Desktop\\ef\\Studies\\C#Programs\\C#Programs\\Program.cs",
-              "RelativeToolTip": "C#Programs\\Program.cs",
-              "ViewState": "AgIAAEoBAAAAAAAAAAAwwF4BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:04:18.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T15:08:28.444Z"
             }
           ]
         },

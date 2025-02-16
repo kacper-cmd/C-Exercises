@@ -355,6 +355,22 @@ namespace MyApp
                 Console.WriteLine(name);
             }
 
+            //Extract unique words from the text and sort them by number of occurrences.
+
+            string text2 = "To jest przykład zastosowania LINQ w analizie tekstu. LINQ to potężne narzędzie.";
+            var uniqueWords = text2.Split(' ')
+                                .Select(word => word.ToLower())
+                                .Where(word => !string.IsNullOrWhiteSpace(word))
+                                .GroupBy(word => word)
+                                .OrderByDescending(group => group.Count())
+                                .Select(group => $"{group.Key}: {group.Count()}");
+            //Process the list of phrases into acronyms.
+            var phrases = new List<string>
+                        { "Language Integrated Query", "World Wide Web", "Artificial Intelligence" };
+            var acronyms = phrases
+            .Select(phrase => new string(phrase.Split(' ')
+            .Select(word => word[0]).ToArray()));
+
             while (true)
             {
                 Console.Write("Give the number: ");
