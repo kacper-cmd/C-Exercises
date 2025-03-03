@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body>       
+    
+    <script>
+        
+        /*
+            Spread operator z EcmaScript2015 rozbija 
+            tablicę/obiekt na pojedyńcze wartości
+        */
+
+        function bar(a, b, c) {
+            console.log(arguments);
+        }
+
+        let arr = [99, 100, 101];
+        bar(...arr); // spread operator rozbijam wartoscic na a, b, c 
+        
+        let obj = {
+            name: "Ania",
+            city: "Wawa"
+        };
+
+        let user = {
+            ...obj,
+            email: "ania@example.com"
+        };
+
+        console.log(user);
+        
+
+
+
+
+
+
+
+
+        
+        
+
+
+    
+    </script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

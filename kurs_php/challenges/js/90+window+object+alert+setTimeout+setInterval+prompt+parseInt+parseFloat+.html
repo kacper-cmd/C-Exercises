@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body>       
+    
+    <script>
+        
+        /*
+            Objekt window to ogólnodostępny obiekt
+            w przeglądarce w której działa JavaScript,
+            udostępnia nam wiele przydatnych informacji
+            o aktualnej karcie/oknie przeglądarki.
+        */
+
+        console.log(window.innerWidth);
+        console.log(window.innerHeight);
+
+        //alert("Hello World!"); //nie musze pisac window.alert bo jest this na window 
+        console.log(innerWidth);
+
+        setTimeout(function () {
+            console.log("Hello!");
+        }, 1000);
+
+
+        let i = 0;
+        let intervalId = setInterval(() => {
+            console.log(i);
+            i++;
+        }, 500);
+
+        setTimeout( () => {
+            clearInterval(intervalId);
+        }, 2000);
+
+        let userInput = prompt("Podaj liczbę zmiennopzecinkową:");
+        // let intNum = parseInt(userInput);
+        // console.log(intNum + 10);
+        let floatNum = parseFloat(userInput);
+        console.log(floatNum + 10.5); // 17.65
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

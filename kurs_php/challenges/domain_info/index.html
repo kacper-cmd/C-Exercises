@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Sprawdź informacje o domenie</h2>
+    <form id="domainInfoForm">
+        <input type="text" id="domain" placeholder="Wpisz adres URL">
+        <button type="submit">Sprawdź</button>
+    </form>
+    <div id="results"></div>
+
+    <script>
+        document.getElementById("domainInfoForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+            const domain = document.getElementById("domain").value;
+
+            fetch(`domain_info_api.php?domain=${encodeURIComponent(domain)}`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("results").innerHTML = `
+                        <pre> ${JSON.stringify(data, null, 2)} </pre>
+                    `;
+                })
+                .catch(error => console.error("Błąd: ", error));
+        });
+    </script>
+</body>
+</html>

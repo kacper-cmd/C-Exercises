@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body>        
+<div> test</div>
+<p> test</p>
+<article>article</article>
+    <script> 
+        
+        fetch("https://swapi.dev/api/planets/1/")
+        .then( response => response.json() )
+        .then( showData );
+
+        function showData(obj) {
+            console.log(obj);
+        }
+
+        
+
+
+console.log(this);//window
+console.log(globalThis);//windows
+function bar(){
+    "use strict";
+    console.log(this);//undefined
+}
+let obj = {
+    name: "Kacper",
+    print: function(){
+        console.log(this);//obiekt obj
+        function test(){
+            console.log(this);//window 
+        }
+        test();
+    }
+}
+let div = document.querySelector("div");
+
+div.addEventListener("click", function (event){
+    console.log(this);;//klikniety div 
+    console.log(event.target);//klikniety div 
+    setTimeout(function () {
+        console.log(this);//window lubn gdy setinterval 
+    },0);
+});
+
+let p = document.querySelector("p");
+
+p.addEventListener("click", function (event){
+    let self = this;//zapisuje ten klikniety p 
+    setTimeout(function () {
+        console.log(this);//window lubn gdy setinterval 
+        console.log(self);////zapisuje ten klikniety p 
+    },0);
+});
+
+
+
+        
+        
+let article = document.querySelector("article");
+
+article.addEventListener("click", function (event){
+    //funcja strzałkowa odwolanie leksykalne ze wzgl na kontext kodu , domyslnie functionna windo
+    setTimeout( () =>  {
+        console.log(this);//zapisuje ten klikniety article  !!!
+    },0);
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

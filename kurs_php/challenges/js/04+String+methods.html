@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body>       
+    
+    <script>
+        
+        /*
+            String - metody i właściwości
+        */
+
+        let str = "Hello ".concat("World!");
+        console.log(str);
+
+        str = str.toUpperCase();
+        console.log(str);
+
+        str = str.toLowerCase();
+        console.log(str);
+
+        console.log( str.charAt(1) ); // e
+        console.log( str.charCodeAt(1) ); // 101
+        
+        let txt = "A B C D E";
+        let arr = txt.split(" ");
+        console.log(arr);
+
+        str = arr.join("|");
+        console.log(str); // A|B|C|D|E
+
+        str = "A|B|C|D|E";
+        str = str.replace("C", "test");
+        console.log(str); // A|B|test|D|E
+
+        str = "A|B|C|D|E|A|B|C|D|E|A|B|C|D|E";
+        str = str.replace(/C/g, "test");
+        console.log(str); // A|B|test|D|E|A|B|test|D|E|A|B|test|D|E
+
+        let arr2 = [1,2,3,4];
+        let tab = new Array(1,2,3, {},[], "ds");
+        arr2 = [
+            [1,2,3],
+            [4,5,6],
+            [7,8,9]
+        ];
+        console.log(arr2[0][1])//2
+
+        let dataa = [3,4,5];
+        dataa.push(7);
+        let a = dataa.pop();//pobiera i kasuje
+        dataa  = dataa.concat([232,43]);
+        let f = dataa.join("|");
+        let arr4 = new Array(8).fill(5);
+        console.log(arr4);
+
+
+
+    
+    </script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

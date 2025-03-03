@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: black;
+            color: white;  
+        }
+        
+    </style>
+</head>
+<body>   
+    <!--
+        Jeśli nie da się rozwiązać konfliktu reguł css 
+        za pomocą źródła stylów to przeglądarka  
+        sprawdza specyficzność deklaracji.
+
+        Przeglądarka określa specyficzność w dwóch częściach:
+         - dla stylów liniowych w atrybucie style elementów
+           html, wpływają tylko na ten element i przesłaniają 
+           style z arkuszów styli z osobnych plików czy 
+           znacznika <style>
+
+         - specyficzność selektora tzn. reguły określające, 
+           które selektory są ważniejsze, czyli mające większą
+           specyficzność. Np. dwie klasy w selektorze zwyciężą
+           nad jedną klasą. Jedna klasa zwycięży nad typami 
+           znaczników. Identyfikator ID zwycięży nad klasami itd.
+
+           color: inherit -wymuszam dziedziczenie gdy kaskada je przeslania
+    -->
+
+    <style>
+        #top-header { color: silver; }
+
+        .header.heading { color: blue; }
+        .header { color: orange; }
+
+        h1 { color: green; } 
+        h1 { color: red; }
+
+        
+    </style>
+
+    <h1 id="top-header" class="header heading"
+        style="color: aqua;" >
+        Nagłówek
+    </h1> 
+    <h1 id="top-header" class="header heading" >
+        Nagłówek
+    </h1> 
+    <p>Lorem ipsum dolor sit amet.</p>
+    <ul>
+        <li>Element 1</li>
+        <li>Element 2</li>
+        <li>Element 3</li>
+    </ul> 
+    
+    
+ 
+
+    
+
+    
+
+
+</body>
+</html>

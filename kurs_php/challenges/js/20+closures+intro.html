@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body> 
+
+    <script> 
+        
+        /*
+            Domknięcie tzw. closures to jest zasięg stworzony przez
+            funkcję wraz z otaczającym ją środowiskiem czyli 
+            zmiennymi oraz innymi funkcjami, które razem oddzielone
+            są od reszty kodu programu.
+        */
+
+        let b = 30; // zmienna globalna b
+        let c = 10;
+        function foo() {
+            let b = 5; // osobna zmienna lokalna b
+            c = -1; // zmiana globalnej zmiennej
+            console.log("b:", b); // odwołanie się do b lokalnego
+        }      
+
+        foo(); // b: 5
+        /* 
+            Funkcja foo ma swoje własne środowisko z zmienną b, 
+            która jest oddzielona od globalnej przestrzeni nazw, 
+            nazwa zmiennej się pokrywa więc wybrana zostanie lokalna 
+            zmienna o wartości 5 dla console.log()
+            Funkcja foo jest domknięciem, bo tworzy oddzielne 
+            środowisko dla zawartych w niej zmiennych ale również 
+            i wewnętrznych funkcji jeśli takie występują.
+        */        
+
+        let d = 99;
+
+        function bar() {
+            let e = 12;
+
+            function test() {
+                let num = 45;
+                console.log(`d:${d} e:${e} num:${num}`);//dostep do e = 12; chociaz sie skonczylo, jS automatycznie pamieta 
+            }
+
+            return test;
+        }
+
+        let show = bar(); // bar() kończy się tutaj
+        console.log(show); // funkcja test
+        
+        show();
+        show();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

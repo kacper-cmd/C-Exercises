@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: black;
+            color: white;  
+        }
+        
+    </style>
+</head>
+<body>  
+    <style>
+        /*
+            Pseudoelementy
+            ::first-letter - pierwsza litera
+            ::first-line - pierwsza linia
+            ::selection - zaznaczony tekst przez użytkownika
+     
+            ::before - dodaje treść przed elementem
+            ::after - dodaje treść za elementem
+
+            Zadanie z pseudoelementami:
+            1) Dodaj dla pierwszych liter paragrafów
+               pogrubioną czcionkę o kolorze green.
+            2) Pierwsza linia drugiego paragrafu ma mieć
+               kolor czcionki żółty.
+            3) Ostatni paragraf ma mieć dodany tekst na końcu
+               " NEWS" z kolorem czerwonym
+        */  
+        
+        p::first-letter { font-weight: bold; color: green; }
+        p:nth-child(2)::first-line { color: yellow; }
+        p:last-child::after { content: " NEWS"; color: red; }
+    </style> 
+
+    <article>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, et quod soluta illo, quo magni enim fuga iure repellat voluptatum alias ipsa tempore sed harum quas nobis atque at incidunt. Aliquam, ducimus! Et, labore accusantium sequi beatae laudantium nostrum aspernatur molestias vitae soluta voluptates, alias, doloremque voluptatibus totam saepe fuga!</p>
+        <p>Lorem ipsum dolor sit amet.</p>
+    </article>
+    
+    
+
+    
+    
+ 
+
+    
+
+    
+
+
+</body>
+</html>

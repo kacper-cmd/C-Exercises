@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body>       
+    
+    <script>
+        /*
+            W JS TO NIEE jest BLOK KODU !!! js globalny i lokalny
+            Zakres u większości języków programowania definiowany 
+            jest przez blok kodu, ale nie w JavaScript.
+            W JavaScript istnieje zakres globalny oraz lokalny. 
+            Zakres tzw. scope to widoczność zmiennych dla 
+            poszczególnych części programu. window 
+
+	        Zakres globalny istnieje przez całe życie skryptu, 
+            raz zadeklarowana zmienna globalna już 
+	        tam pozostanie, chyba że użyjemy na niej delete. 
+            Globalna zmienna może być używana wewnątrz oraz poza 
+            funkcją, w praktyce gdziekolwiek w bieżącym dokumencie. 
+	        W przeglądarce window jest obiektem globalnym.
+
+	        Zakres lokalny istnieje wewnątrz funkcji w której
+            zmienna została zadeklarowana, również argumenty funkcji.
+
+            Domyślnie javascript nie ma zakresu blokowego z var
+            co powoduje pewne problemy.	
+        */  
+
+        let g1 = 10; // globalna zmienna
+        //let ` = 88; // Identifier 'g1' has already been declared
+        var g2 = 20; // globalna zmienna zakres funcjilny !!!!!!!!!
+        var g2 = 99; // globalna zmienna, unikamy ponownej deklaracji
+                     // zmiennej z var o takiej samej nazwie
+
+        let test = 78; // globalna
+
+        if (1 == 1) {
+            var g3 = 100; // globalna zmienna
+            window.g4 = 200; // globalna zmienna, unikać!
+            console.log("test");
+
+            var g2 = 111; // przesłonięta globalna g2, zmienne z var
+                          // nie mają zakresu blokowego
+            let test = 56; // lokalna zmienne
+            console.log(test); // 56
+        }
+
+        console.log(test); // 78
+
+        console.log(g2); // 111
+        console.log(g3); // 100 czyli globalna zmienna
+        console.log(g4); // 200 czyli globalna zmienna
+
+        for (var i = 0; i < 5; i++) {}
+        console.log(i); // globalna zmienna i z wartością 5
+
+        for (let a = 0; a < 5; a++) { console.log(a); }
+        // console.log(a); // a nie jest globalna!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: black;
+            color: white;  
+        }
+        
+    </style>
+</head>
+<body>  
+    <style> 
+        /*
+        [attribute] - element posiada atrybut 
+        [attribute = "value"] - element posiada atrybut 
+                                z wartością 
+        
+        [attribute ^= "value"] - wybiera elementy jeśli
+                                 value rozpoczyna atrybut
+        [attribute $= "value"] - value kończy atrybut 
+       
+        [attribute *= "value"] - wybiera elementy jeśli
+                                 value gdziekolwiek jest 
+                                 w atrybucie, wielkość
+                                 liter ma znaczenie
+        [attribute ~= "value"] - value jest gdziekolwiek
+                                 w atrybucie, ale w fragmentach
+                                 oddzielonych spacjami
+       
+
+        Zadanie z atrybutami:
+        1) Wybierz h3 z id header oraz atrybutem class jeśli
+           gdziekolwiek jest fragment "title", background na red
+        2) Jak wyżej tylko atrybut zaczyna się na "bar", 
+           styl text-decoration na underline
+        3) Wybierz paragraf z klasą text w article z atrybutem
+           data-intro z treścią dokładnie o wartości "information",
+           zastosuj styl border: 2px dotted green
+        4) Wybierz paragraf z atrybutem class w którym 
+           gdziekolwiek jest fragment foo oddzielony spacjami
+           od innych elementów, styl background na blue
+        */ 
+        
+        h3#header[class *= "title"] { background: red; }
+        h3#header[class ^= "bar"] { text-decoration: underline; }
+
+        article p.text[data-intro = "information"] {
+            border: 2px dotted green;
+        } 
+        
+        p[class ~= "foo"] { background: blue; }
+    </style> 
+
+    <article>
+        <header>
+            <h3 id="header" class="bar title">Tytuł artykułu</h3>
+            <p>Autor: <span class="author">Ola</span></p>
+        </header>
+        <p class="text" data-intro="information">Paragraf #1</p>
+        <p class="text foo">Paragraf #2</p>
+        <p class="text" data-ending>Paragraf #2</p>
+    </article>
+
+    
+    
+ 
+
+    
+
+    
+
+
+</body>
+</html>

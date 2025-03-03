@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container {
+            width: 300px;
+            margin: auto;
+            padding-top: 50px;
+        }
+
+        .form-group { margin-bottom: 10px; }
+        .form-group label { display: block; }
+        .form-group input { width: 100%; padding: 5px; }
+
+        button {
+            width: 100%;
+            margin: 5px;
+            padding:  10px;
+            background-color: #4caf50;
+            color: #fff;
+        }
+
+        table {
+            width: 100%;
+            margin: 5px;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Oblicz procent składany</h2>
+        <form id="compundInterestForm">
+            <div class="form-group">
+                <label for="principal">Kwota początkowa</label>
+                <input type="number" id="principal" required step="0.01" >
+            </div>
+            <div class="form-group">
+                <label for="rate">Stopa procentowa (% rocznie)</label>
+                <input type="number" id="rate" required step="0.01" >
+            </div>
+            <div class="form-group">
+                <label for="time">Czas w latach</label>
+                <input type="number" id="time" required step="0.01" >
+            </div>
+            <button type="submit">Oblicz</button>
+        </form>
+        <table id="resultsTable" style="display:none">
+            <thead>
+                <tr>
+                    <th>Rok</th>
+                    <th>Kwota</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        document.getElementById("compundInterestForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+
+            const principal = document.getElementById("principal").value;
+            const rate = document.getElementById("rate").value;
+            const time = document.getElementById("time").value;
+
+            fetch(`compound_interest_api.php?principal=${principal}&rate=${rate}&time=${time}`)
+            .then(response => response.json())
+            .then(data => {
+                const resultsTable = document.getElementById("resultsTable");
+                let tableContent = "";
+
+                data.forEach(item => {
+                    tableContent += `
+                        <tr>
+                            <td>${item.year}</td><td>${item.amount} zł</td>
+                        </tr>
+                    `;
+                });
+
+                resultsTable.querySelector("tbody").innerHTML = tableContent;
+                resultsTable.style.display = "table";
+            })
+            .catch(error => console.error("Błąd:", error));
+        });
+    </script>
+</body>
+</html>

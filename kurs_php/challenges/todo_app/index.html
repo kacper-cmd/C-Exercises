@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .todo-form {
+            margin-bottom: 20px;
+        }
+
+        .todo-form input[type="text"], .todo-form input[type="date"] {
+            padding: 5px;
+            margin-right: 10px;
+        }
+
+        .todo-form button {
+            padding: 5px 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 8px; 
+            text-align: left;
+        }
+
+        th:last-child, td:last-child { /* akcje */
+            width: 100px;
+        }
+
+        th:nth-last-child(2), td:nth-last-child(2) { /* co 2 kolumna  data */
+            width: 100px;
+        }
+
+        .delete-btn {
+            color: red;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="todo-form">
+        <input type="text" id="newTodoDescription" placeholder="Dodaj nowe zadanie">
+        <input type="date" id="newTodoDueDate">
+        <button onclick="addTodo()">Dodaj</button>
+    </div>
+    <table id="todoTable">
+        <thead>
+            <tr>
+                <th>Opis</th>
+                <th>Data wykonania</th>
+                <th>Akcje</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        function loadTodos() {
+            fetch("todo_api.php")
+            .then(response => response.json())
+            .then(todos => {
+                const tbody = document.getElementById("todoTable").querySelector("tbody");
+                tbody.innerHTML = "";
+                todos.forEach(todo => {
+                    const tr = document.createElement("tr");
+                    tr.innerHTML = `
+                        <td>${todo.description}</td>
+                        <td>${todo.due_date}</td>
+                        <td>
+                            <span class="delete-btn" onclick="deleteTodo(${todo.id})">X</span>
+                        </td>    
+                    `;
+
+                    tbody.appendChild(tr);
+                });
+            });
+        }
+
+        function addTodo() {
+            const description = document.getElementById("newTodoDescription").value;
+            const dueDate = document.getElementById("newTodoDueDate").value;
+
+            fetch("todo_api.php", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ description: description, due_date: dueDate })
+            }).then(() => {
+                document.getElementById("newTodoDescription").value = "";
+                document.getElementById("newTodoDueDate").value = "";
+                loadTodos();
+            });
+        }
+
+        function deleteTodo(id) {
+            fetch(`todo_api.php?id=${id}`, {
+                method: "DELETE"
+            })
+            .then(() => loadTodos());
+        }
+
+
+        loadTodos();
+    </script>
+</body>
+</html>

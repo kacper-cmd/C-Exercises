@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: black;
+            color: white;  
+        }
+        
+    </style>
+</head>
+<body>  
+    <style>
+        /*
+            Pseudoklasa :not wybierze elementy 
+            nie spełniające warunków selektora
+        */    
+        
+        input:not(.foo):not(.bar) {
+            font-weight: bold;
+        }
+
+        input:not([type = "email"]) {
+            background: green;
+        }
+
+    </style> 
+
+    <input type="text" class="foo" value="Lorem ipsum">
+    <input type="text" class="bar" value="Lorem ipsum">
+    <input type="email" value="lorem@ipsum.com">
+
+
+
+    
+    
+
+    
+    
+ 
+
+    
+
+    
+
+
+</body>
+</html>

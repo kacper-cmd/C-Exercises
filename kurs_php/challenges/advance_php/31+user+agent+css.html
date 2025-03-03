@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: black;
+            color: white;  
+        }
+        
+    </style>
+</head>
+<body>  
+    
+
+    <!--
+    user_agent_stylesheet np domylnie style h1 , niski priorytet
+        Przeglądarka ma kilka źródeł arkuszy stylów, 
+        które wpływają na wygląd strony:
+
+      1. Style agenta użytkownika będące domyślnymi stylami
+          przeglądarki. Dzięki nim strona www pozbawiona 
+          Css jest czytelna. Style te mają niski priorytet,
+          dlatego zostaną nadpisane przez kolejne style 
+          np dodane do strony www - style autora.
+  
+       2. Style autora, czyli dodawane do strony 
+          internetowej przez webdevelopera, nadpisują 
+          style agenta. 
+
+       Style agenta użytkownika czyli przeglądarek mogą się 
+       w niewielkim stopniu różnić od siebie, ale mają ten 
+       sam cel aby treść była czytelna.
+
+    -->
+
+    <h1>Nagłówek</h1>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <ul>
+        <li>Element 1</li>
+        <li>Element 2</li>
+        <li>Element 3</li>
+    </ul> 
+    
+    
+ 
+ <!--
+      Priorytety źródeł stylów w kaskadzie
+
+      Źródła stylów są używane zgodnie z poniższą 
+      kolejnością, od najniższego do najwyższego
+      priorytetu:
+
+       4. Agent użytkownika - style przeglądarki
+       3. Style autora - style twórcy strony www
+       2. Ważne style autora - strony www, deklaracje 
+          oznaczone adnotacją !important, które nadpisują 
+          normalne style, niezależnie gdzie są na stronie. 
+       1. Ważne style użytkownika przeglądającego stronę 
+          np gdy chce mieć tryb nocny poprzez dodatki jak
+           “Dark Background and Light Text”
+
+    -->
+
+    <style>
+        h1 { color: green !important; }
+        
+        h1 { color: red; }
+
+        
+    </style>
+
+    <h1>Nagłówek</h1>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <ul>
+        <li>Element 1</li>
+        <li>Element 2</li>
+        <li>Element 3</li>
+    </ul> 
+    
+
+    
+
+
+</body>
+</html>

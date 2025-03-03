@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: black;
+            color: white;  
+        }
+        
+    </style>
+</head>
+<body>  
+    <style>
+        /*
+            Pseudoelementy
+            ::before - dodaje treść przed elementem
+            ::after - dodaje treść za elementem
+        */    
+
+        p::before {
+            content: "BEFORE";
+            border: 2px solid green;
+        }
+
+        p::after {
+            content: "after";
+            border: 2px solid red;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        li::before {
+            content: "✅";
+            /* www.unicode-table.com */
+        }
+
+        li:nth-child(2)::after {
+            content: "🔥"
+        }
+        
+    </style> 
+
+    <p>Lorem ipsum dolor sit amet consectetur.</p>
+    <p>Lorem ipsum dolor sit amet.</p>
+    
+    <ul>
+        <li>Lorem 1</li>
+        <li>Lorem 2</li>
+        <li>Lorem 3</li>
+    </ul>
+    
+    
+    
+
+    
+    
+ 
+
+    
+
+    
+
+
+</body>
+</html>

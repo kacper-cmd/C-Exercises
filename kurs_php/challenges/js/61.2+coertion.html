@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body>       
+    
+    <script>
+        /*
+            Koercja to automatczna konwersja typu wartości w JS
+            gdy wymaga tego sytuacja.
+        */ 
+        
+        // Konwersje jawne
+        let str = String(22);
+        console.log( typeof str); // string
+
+        let num = parseInt("25436");
+        console.log( typeof num); // number
+        
+        // Konwersje niejawne - koercje
+        let data = "test" + 10;
+        console.log(data); // " string "test10"
+
+        if ( 10 - "3" === 7 ) console.log("Wykona się");
+        let c = +"12"; // 12 jako number
+        console.log(typeof c); // number
+
+        let d = -"10";
+        console.log(typeof d); // number
+
+        if ( "false" ) console.log("wykona się");//wykona 
+        if ( "" ) console.log("nie wykona się");//wykona bo nie jest pusty lanczuch 
+        if ( "0" ) console.log("wykona się");
+        if ( !"0" ) console.log("nie wykona się");
+
+        if ( {} == "[object Object]" ) console.log("wykona się");//wykona 
+        console.log( String({}) ); // [object Object]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

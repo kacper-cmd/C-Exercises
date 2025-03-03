@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--
+        Zadanie: stwórz formularz rejestracji na forum:
+        1) Tag form ma atrybut action z wartością "new_user.php",
+           metoda wysyłki to POST
+        2) Każde pole formularza z atrybutem name umieść 
+           w paragrafie wraz z label i opisem jeżeli to potrzebne:
+           - Nazwa użytkownika w input tekstowym z id user-name
+           - Pole email
+           - Data urodzenia jako datetime-local z id born-date
+           - Typ użytkownika jako radio z name jako user-type
+             z opcjami: firma, osoba fizyczna, fundacja.
+             Odpowiednio zapisz id i for po angielsku.
+             Uwaga poszczególne input z label umieść w osobnych
+             paragrafach, ale całość w jednym div.
+           - Kolor motywu strony z input type jako color 
+           - Zainteresowania jako pola checkbox wraz
+             z wartościami: komputery, programowanie, kino.
+             Jako wspólny name zapisz "tag"
+           - Lista select ulubionej kategorii do wyboru opcji:
+             kategoria 1, kategoria 2, kategoria 3 
+        3) Dodaj dwa przyciski reset i wyślij 
+    -->
+
+    <form action="new_user.php" method="post">
+        <p>
+            <label for="user-name">Nazwa użytkownika:</label>
+            <input type="text" id="user-name">
+        </p>
+        <p>
+            <label for="email">Email:</label>
+            <input type="email" id="email">
+        </p>
+        <p>
+            <label for="born-date">Data urodzenia:</label>
+            <input type="datetime-local" id="born-date">
+        </p>
+        <div>
+            Typ użytkownika:
+            <p>
+                <label for="company">Firma:</label>
+                <input type="radio" name="user-type" id="company">
+            </p>
+            <p>
+                <label for="natural-person">Osoba fizyczna:</label>
+                <input type="radio" name="user-type" id="natural-person">
+            </p>
+            <p>
+                <label for="foundation">Fundacja:</label>
+                <input type="radio" name="user-type" id="foundation">
+            </p>
+        </div>
+        <p>
+            <label for="website-color">Kolor motywu:</label>
+            <input type="color" name="website-color" id="website-color">
+        </p>
+        <div>
+            Zainteresowania:
+            <p>
+                <input type="checkbox" name="tag" id="computers" value="komputery">
+                <label for="computers">Komputery</label>
+            </p>
+            <p>
+                <input type="checkbox" name="tag" id="programming" value="programowanie">
+                <label for="programming">Programowanie</label>
+            </p>
+            <p>
+                <input type="checkbox" name="tag" id="cinema" value="kino">
+                <label for="computers">Kino</label>
+            </p>
+        </div>
+        <p>
+            <label for="category">Ulubiona kategoria:</label>
+            <select name="category" id="category">
+                <option value="category1">Kategoria 1</option>
+                <option value="category2">Kategoria 2</option>
+                <option value="category3">Kategoria 3</option>
+            </select>
+        </p>
+        <p>
+            <button type="reset">Resetuj</button>
+            <button type="submit">Wyślij</button>
+        </p>
+    </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

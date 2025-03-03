@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>   
+        body {
+            background: black;
+            color: white;  
+        }
+
+        * {
+            margin: 20px 2px;
+        }
+        
+    </style>
+</head>
+<body>       
+    
+    <script>
+        
+        let carFactory = {
+            name: "Factory",
+            city: "Krk",
+            employees: [],
+            brand: "Ford",
+            addEmployee: function (name, surname) {
+                const obj = {
+                    name: name,
+                    surname: surname,
+                    email: `${name.toLowerCase()}.${surname.toLowerCase()}@example.com`
+                };
+                
+                let index = this.employees.length;
+                this.employees[index] = obj;
+            },
+            showEmployees: function() {
+                console.log(this.name, "employees");
+
+                for (let i = 0; i < this.employees.length; i++) {
+                    const e = this.employees[i];
+                    console.log(e.name, e.surname, e.email);
+                }
+            },
+            makeCar: function (model, color) {
+                return {
+                    brand: this.brand,
+                    model: model,
+                    color: color
+                };
+            }
+        };
+
+        carFactory.addEmployee("Kasia", "Kowalska");
+        carFactory.addEmployee("Ola", "Kowalska");
+        console.log(carFactory.employees);
+
+        carFactory.showEmployees();
+
+        let car1 = carFactory.makeCar("Mustang", "red"); 
+        console.log(car1);
+
+        carFactory.name = "Factory Ltd.";
+        carFactory["name"] = "Car Factory Ltd.";
+        console.log(carFactory.name);
+        
+
+        
+
+        
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+</body>
+</html>

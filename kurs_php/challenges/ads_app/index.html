@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- https://pixabay.com/ -->
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        .video-background{
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            max-width: 100%;
+            width: auto;
+            height: auto;
+            /* - video backgroudn pod  */
+            z-index: -100;
+            background-size: cover;
+        }
+        .form-container{
+            width: 48%;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .form-group{
+            margin-bottom: 10px;
+        }
+        .form-group label {display: block;}
+        .form-group input, .form-group select {width: 90%; padding: 5px;}
+        
+        .box-container{
+            margin-top: 10px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 10px;
+        }
+        .box-card{
+            background-color: white;
+            border: 1px solid #ddd;
+            padding: 10px;
+            position: relative;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .close-btn{
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+            color: red;
+        }
+        @media (max-width: 600px){
+            .box-container{
+                /* 1 kolumna */
+                grid-template-columns: 1fr;
+            }
+        }
+
+
+    </style>
+</head>
+<body>
+    <video autoplay muted loop class="video-background">
+        <source src="shopping.mp4" type="video/mp4">
+    </video>
+    <div class="form-container">
+        <div class="form-group">
+            <label for="title">Tytuł</label>
+            <input type="text" id="title">
+        </div>
+        <div class="form-group">
+            <label for="description">Description</label>
+            <input type="text" id="description">
+        </div>
+        <div class="form-group">
+            <label for="category">Kategoria</label>
+            <select id="category">
+                <option value="kupno">Kupno</option>
+                <option value="sprzedaż">sprzedaż</option>
+                <option value="zamiana">zamiana</option>
+            </select>
+        </div>
+        <button onclick="addBox()">Dodaj ogłoszenie</button>
+    </div>
+    <div class="box-container" id="boxes">
+
+    </div>
+
+    <script>
+        function loadBoxes(){
+            fetch("ads_api.php")
+            .then(response => response.json())
+            .then(boxes => {
+                const boxContainer = document.getElementById("boxes");
+                boxContainer.innerHTML = "";
+                boxes.forEach(box => {
+                    const boxCard = document.createElement("div");
+                    boxCard.className = "box-card";
+                    boxCard.innerHTML = `
+                         <div class="close-btn" onclick="deleteBox(${box.id})">X</div>
+                         <h3>${box.title}</h3>
+                         <p>${box.description}</p>
+                         <small>Kategoria: ${box.category}</small>
+                            `;
+                    boxContainer.appendChild(boxCard);
+                });
+            });
+        }
+        function addBox(){
+            const title = document.getElementById("title").value;
+            const description = document.getElementById("description").value;
+            const category = document.getElementById("category").value;
+
+            fetch("ads_api.php", {
+                method: "POST",
+                headers: {"Content-Type" : "application/json"},
+                body: JSON.stringify({title, description, category})
+            })
+            .then(()=> {
+                document.getElementById("title").value = "";
+                document.getElementById("description").value = "";
+                document.getElementById("category").value = "";
+                loadBoxes();
+            });
+        }
+        function deleteBox(id){
+            fetch(`ads_api.php?id=${id}`, {
+                method: "DELETE"
+            })
+            .then(()=> loadBoxes());
+        }
+        loadBoxes();
+    </script>
+</body>
+</html>

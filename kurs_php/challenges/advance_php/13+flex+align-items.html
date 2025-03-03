@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>  
+        body {
+            background: black;
+            color: white;
+        }
+
+        
+    </style>
+</head>
+<body>       
+    <style> 
+        /*
+            flex-direction: row, column, row-reverse...
+
+            flex-wrap - czy elementy mają być zawijane:
+                      nowrap - brak zawijania, skurczą się
+                               lub wyjdą poza kontener
+                      wrap - zawijanie do następnej linii
+                      wrap-reverse - z dołu do góry
+
+            align-items - wyrównanie elementów w pionie:
+                   - flex-start
+                   - flex-end
+                   - center
+                   - stretch - na całą wysokość
+                   - baseline - na linii bazowej
+        */
+
+        .container {
+            height: 150px;
+            background: green;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: stretch;
+        }
+
+        .container > div {
+            margin: 5px; 
+            height: 70px;
+            width: 70px;
+            background: silver;
+            text-align: center;
+            line-height: 70px;
+        }
+
+        div.h100 {
+            height: 100px;
+            background: red;
+        }
+        
+    </style>
+
+    <div class="container">
+        <div>Element1</div>
+        <div class="h100">Element2</div>
+        <div>Element3</div> 
+        <div class="h100">Element4</div> 
+    </div>
+    
+    
+
+
+    
+</body>
+</html>
